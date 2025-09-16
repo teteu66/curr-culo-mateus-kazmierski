@@ -1,0 +1,12 @@
+hr{
+    height: 5px;
+    background-color: black;
+    border: none;
+ }
+ body{
+    background-color: darkgray;
+    width: 800px;
+    padding-left: 300px;
+ }
+ 
+ 
